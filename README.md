@@ -5,7 +5,7 @@ Once a time, I need to write some FAME code and I haven't found (yet) any highli
 It is very far from perfect and probably useless but if there is someone out there who's writing some FAME 4GL and looking for a highlighting theme in Emacs, I believe it can provide a decent first step. 
 
 <p align="center">
-  <img src="./screenshot.png" alt="screenshot" />
+  <img src="./screenshot.png" alt="screenshot" style="max-width:60%;" />
 </p>
 
 ## 2. Implementation
