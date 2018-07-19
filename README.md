@@ -4,7 +4,9 @@
 Once a time, I need to write some FAME code and I haven't found (yet) any highlighting mode on Emacs or other platforms (there is one in GEdit but GEdit), so I wrote one myself. 
 It is very far from perfect and probably useless but if there is someone out there who's writing some FAME 4GL and looking for a highlighting theme in Emacs, I believe it can provide a decent first step. 
 
-![screenshot][./screenshot.png]
+<p align="center">
+  <img src="./screenshot.png" alt="screenshot" />
+</p>
 
 ## 2. Implementation
 The mode provides essentially two main features:
